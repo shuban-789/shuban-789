@@ -7,7 +7,7 @@
 🐍Orion remote shell execution server (AP CSP project)
 
 <h2> 🐦 My Skillbase:</h2>
-<h4 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages, Tools, etc:</h3>
 <p align="left"> 
 <span>
   <img src="https://img.shields.io/badge/Python-3268AD?style=for-the-badge&logo=python&logoColor=FBD618" alt="python" height="40"/>
