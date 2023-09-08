@@ -10,8 +10,8 @@
 <h4 align="left">Languages, Tools, etc:</h3>
 <p align="left"> 
 <span>
-  <img src="https://img.shields.io/badge/Python-3268AD?style=for-the-badge&logo=python&logoColor=FBD618" alt="python" height="40"/>
-  <img src="https://img.shields.io/badge/C-3268AD?style=for-the-badge&logo=c&logoColor=606363" alt="C" height="40"/>
-  <img src="https://img.shields.io/badge/Go-3268AD?style=for-the-badge&logo=Go&logoColor=186DFB" alt="Go" height="40"/>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FBD618" alt="python" height="40"/>
+  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=606363" alt="C" height="40"/>
+  <img src="https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=Go&logoColor=06B9FC" alt="Go" height="40"/>
   <img src="https://img.shields.io/badge/Linux-3268AD?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="40"/>
 </span>
