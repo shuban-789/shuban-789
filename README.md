@@ -6,7 +6,7 @@
 
 🐍Orion remote shell execution server (AP CSP project)
 
-<h2> 🐦 My Stack:</h2>
+<h2> 🐦 My Skillbase:</h2>
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
