@@ -10,7 +10,7 @@
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" alt="python" height="40"/>
-  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB" alt="C" height="40"/>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3268AD" alt="python" height="40"/>
+  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=ACBCBE" alt="C" height="40"/>
 
 </span>
