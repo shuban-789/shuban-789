@@ -4,7 +4,7 @@
 
 🕵️‍♂️Cdecode C description tool (Personal project)
 
-🐍Orion remote shell execution server (AP CSP project)
+🐍Orion remote shell execution server (AP CSP project, (currently on pause after version 2.3)
 
 <h2>  My Skillbase:</h2>
 <h4 align="left">Languages, Tools, etc:</h3>
