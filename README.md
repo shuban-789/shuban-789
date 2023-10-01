@@ -12,8 +12,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,pytorch,aws,blender,docker)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
 
 <h3 align="left">Backend Software:</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
+
+<h3 align="left">Currently Trying to Learn:</h3>
+
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch)](https://skillicons.dev)
