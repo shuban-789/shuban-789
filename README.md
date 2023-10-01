@@ -12,4 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,github,linux,bash,pytorch,aws,blender,docker)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,pytorch,aws,blender,docker)](https://skillicons.dev)
+
+<h3 align="left">Backend Software Knowledge:</h3>
+
+[![My Skills3](https://skillicons.dev/icons?i=mongodb,mysql,nginx)](https://skillicons.dev)
