@@ -7,7 +7,9 @@
 🐍Orion RSH server (Currently on pause after version 2.3)
 
 <h2>  My Skillbase:</h2>
-<h4 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
-<h4 align="left">Tools:</h3>
+<h3 align="left">Tools:</h3>
+
 [![My Skills2](https://skillicons.dev/icons?i=aws,linux,bash,docker,blender)](https://skillicons.dev)
