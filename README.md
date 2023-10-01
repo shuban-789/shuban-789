@@ -18,6 +18,7 @@
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
-<h3 align="left">Currently Trying to Learn:</h3>
+
+<h2>  Currently trying to learn:</h2>
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity)](https://skillicons.dev)
