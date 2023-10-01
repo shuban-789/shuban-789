@@ -20,4 +20,4 @@
 
 <h3 align="left">Currently Trying to Learn:</h3>
 
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity)](https://skillicons.dev)
