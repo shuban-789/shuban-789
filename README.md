@@ -9,4 +9,4 @@
 <h2>  My Skillbase:</h2>
 <h4 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=replit,git,py,linux,go,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,linux,go,bash,repl)](https://skillicons.dev)
