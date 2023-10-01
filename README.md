@@ -10,4 +10,5 @@
 <h4 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,linux,go,bash)](https://skillicons.dev)
-[![My Skills2](https://skillicons.dev/icons?i=docker,blender,apache,nginx,aws)](https://skillicons.dev)
+
+[![My Skills2](https://skillicons.dev/icons?i=docker,blender,github,nginx,aws)](https://skillicons.dev)
