@@ -12,4 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=blender,vscode,pytorch,aws,linux,bash,docker)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,pytorch,aws,linux,bash,blenderdocker)](https://skillicons.dev)
