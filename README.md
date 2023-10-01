@@ -16,4 +16,4 @@
 
 <h3 align="left">Backend Software Knowledge:</h3>
 
-[![My Skills3](https://skillicons.dev/icons?i=mongodb,mysql,nginx)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
