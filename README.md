@@ -21,4 +21,4 @@
 
 <h2>  Currently trying to learn:</h2>
 
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity,java,raspberrypi)](https://skillicons.dev)
