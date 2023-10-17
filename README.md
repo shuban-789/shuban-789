@@ -4,7 +4,7 @@
 
 🕵️‍♂️Cdecode C description tool (Personal project)
 
-🐍Orion RSH server (Currently on pause after version 2.3)
+🐍Orion Python RSH server (Currently on pause after version 2.3)
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
