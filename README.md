@@ -1,5 +1,14 @@
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
 
+## Interests and Experience
+- AI and Machine Learning
+- Cybersecurity
+- Competitive Programming
+- Cryptography
+- Reverse Engineering
+- Binary Exploition/Pwn
+- Backend Development and System Administration
+
 ## Currently being tested and worked on:
 
 🕵️‍♂️Cdecode C description tool (Personal project)
