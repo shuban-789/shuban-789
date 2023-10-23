@@ -7,7 +7,8 @@
 - Cryptography
 - Reverse Engineering
 - Binary Exploition/Pwn
-- Backend Development and System Administration
+- Backend Development
+-  System Administration (Linux)
 
 ## Currently being tested and worked on:
 
