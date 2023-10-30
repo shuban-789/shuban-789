@@ -8,6 +8,8 @@
 - Reverse Engineering
 - Binary Exploition/Pwn
 - Backend Development
+- Robotics
+- Server Application Development (protocol implementation)
 -  System Administration (Linux)
 
 ## Currently being tested and worked on:
