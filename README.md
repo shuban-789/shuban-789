@@ -16,9 +16,10 @@
 <h3 align="left">Programming Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
-<h3 align="left">Tools:</h3>
 
 Python and C are my strongest, I only know Go and Swift because of their similarity to Python and C. Go is like C in structure and has Python-like support. Swift is as dynamic as Python, if not exactly Python with a few syntax variations.
+
+<h3 align="left">Tools:</h3>
 
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase)](https://skillicons.dev)
 
