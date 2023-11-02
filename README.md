@@ -27,7 +27,7 @@
 
 <h2>  Currently learning:</h2>
 
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,neovim,java,raspberrypi,rust)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,neovim,java,raspberrypi,rust,premierpro)](https://skillicons.dev)
 
 ## Currently being tested and worked on:
 
