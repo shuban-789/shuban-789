@@ -29,7 +29,7 @@ I work alot with linux and different distributions for a variety of things such 
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
-I know how to setup and use mongoDB, Nginx, and PostgreSQL
+I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
 
 <h2>  Currently learning:</h2>
 
