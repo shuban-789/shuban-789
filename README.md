@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase&perline=4)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase&perline=3)](https://skillicons.dev)
 
 <h3 align="left">Backend Software:</h3>
 
