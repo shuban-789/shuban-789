@@ -21,12 +21,15 @@ Python and C are my strongest languages. I only know Go and Swift because of the
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
+
+I work alot with linux and different distributions for a variety of things such as cybersecurity or server application development. Knowledge of linux comes handy when using deployment software like AWS. Blender is something I have learned for fun.
 
 <h3 align="left">Backend Software:</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
+I know how to setup and use mongoDB, Nginx, and PostgreSQL
 
 <h2>  Currently learning:</h2>
 
