@@ -29,7 +29,7 @@
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,java,raspberrypi)](https://skillicons.dev)
 
-Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as toher things in
+Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
 
 Java - Java is really different compared to the languages I already know. Python and C are my strongest, I only know Go and Swift because of their similarity to Python and C.
 
