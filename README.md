@@ -18,6 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
+Python and C are my strongest, I only know Go and Swift because of their similarity to Python and C. Go is like C in structure and has Python-like support. Swift is as dynamic as Python, if not exactly Python with a few syntax variations.
+
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase)](https://skillicons.dev)
 
 <h3 align="left">Backend Software:</h3>
@@ -31,7 +33,7 @@
 
 Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
 
-Java - Java is really different compared to the languages I already know. Python and C are my strongest, I only know Go and Swift because of their similarity to Python and C.
+Java - Java is really different compared to the languages I already know.
 
 Raspberry Pi - I have not worked with one before and I feel lke it would be a good experience to use it in a project
 
