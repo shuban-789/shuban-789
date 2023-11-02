@@ -12,12 +12,6 @@
 - Server Application Development (protocol implementation)
 -  System Administration (Linux)
 
-## Currently being tested and worked on:
-
-🕵️‍♂️Cdecode C description tool (Personal project)
-
-🐍Orion Python RSH server (Currently on pause after version 2.3)
-
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
 
@@ -35,3 +29,8 @@
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,neovim,java,raspberrypi)](https://skillicons.dev)
 
+## Currently being tested and worked on:
+
+🕵️‍♂️Cdecode C description tool (Personal project)
+
+🐍Orion Python RSH server (Currently on pause after version 2.3)
