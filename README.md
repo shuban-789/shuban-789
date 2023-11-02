@@ -1,5 +1,4 @@
-![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
-
+# 👋 Hi, I'm Shuban
 ## Interests and Experience
 - AI and Machine Learning
 - Cybersecurity
@@ -34,3 +33,6 @@
 <h2>  Currently learning:</h2>
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,neovim,java,raspberrypi)](https://skillicons.dev)
+
+## Github Stats
+![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
