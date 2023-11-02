@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go)](https://skillicons.dev)
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,androidstudio,firebase)](https://skillicons.dev)
 
 <h3 align="left">Backend Software:</h3>
 
@@ -27,7 +27,7 @@
 
 <h2>  Currently learning:</h2>
 
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,neovim,java,raspberrypi,rust,premier)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,java,raspberrypi,rust)](https://skillicons.dev)
 
 ## Currently being tested and worked on:
 
