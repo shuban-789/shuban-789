@@ -19,7 +19,17 @@ I work alot with linux and different distributions for a variety of things such 
 
 I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
 
-# Interests and Experience
+<h2>  Currently learning:</h2>
+
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,java,raspberrypi)](https://skillicons.dev)
+
+Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
+
+Java - Java is really different compared to the languages I already know.
+
+Raspberry Pi - I have not worked with one before and I feel lke it would be a good experience to use it in a project
+
+# Interests and Experience 📝
 
 - AI and Machine Learning
 - Cybersecurity
@@ -31,16 +41,6 @@ I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
 - Robotics
 - Server Application Development (protocol implementation)
 -  System Administration (Linux)
-
-<h2>  Currently learning:</h2>
-
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,java,raspberrypi)](https://skillicons.dev)
-
-Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
-
-Java - Java is really different compared to the languages I already know.
-
-Raspberry Pi - I have not worked with one before and I feel lke it would be a good experience to use it in a project
 
 ## Currently being tested and worked on:
 
