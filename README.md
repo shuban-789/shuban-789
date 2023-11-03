@@ -1,18 +1,5 @@
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
 
-# Interests and Experience 📝
-
-- AI and Machine Learning
-- Cybersecurity
-- Competitive Programming
-- Cryptography
-- Reverse Engineering
-- Binary Exploition/Pwn
-- Backend Development
-- Robotics
-- Server Application Development (protocol implementation)
--  System Administration (Linux)
-
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
 
@@ -31,6 +18,19 @@ I work alot with linux and different distributions for a variety of things such 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
 I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
+
+# Interests and Experience
+
+- AI and Machine Learning
+- Cybersecurity
+- Competitive Programming
+- Cryptography
+- Reverse Engineering
+- Binary Exploition/Pwn
+- Backend Development
+- Robotics
+- Server Application Development (protocol implementation)
+-  System Administration (Linux)
 
 <h2>  Currently learning:</h2>
 
