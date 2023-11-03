@@ -1,5 +1,3 @@
-![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
-
 ## Interests and Experience
 - AI and Machine Learning
 - Cybersecurity
@@ -46,3 +44,5 @@ Raspberry Pi - I have not worked with one before and I feel lke it would be a go
 🕵️‍♂️Cdecode C description tool (Personal project)
 
 🐍Orion Python RSH server (Currently on pause after version 2.3)
+
+![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
