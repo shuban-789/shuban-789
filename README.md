@@ -1,4 +1,4 @@
-https://placehold.it/150/ffffff/ff0000?text=hello
+# Interests and Experience 📝
 
 - AI and Machine Learning
 - Cybersecurity
@@ -12,19 +12,19 @@ https://placehold.it/150/ffffff/ff0000?text=hello
 -  System Administration (Linux)
 
 <h2>  My Skillbase:</h2>
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages 💻:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 
 Python and C are my strongest languages. I only know Go and Swift because of their similarity to Python and C. Go is like C in structure and has Python-like support. Swift is as dynamic as Python, if not exactly Python with the use of brackets and different variable declaration.
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools 🔧:</h3>
 
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
 
 I work alot with linux and different distributions for a variety of things such as cybersecurity or server application development. Knowledge of linux comes handy when using deployment software like AWS. Blender is something I have learned for fun.
 
-<h3 align="left">Backend Software:</h3>
+<h3 align="left">Backend Software 🛠️:</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
