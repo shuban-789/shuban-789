@@ -1,4 +1,5 @@
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shuban-789&theme=transparent)](https://git.io/streak-stats)
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
