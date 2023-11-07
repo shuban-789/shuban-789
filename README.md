@@ -23,7 +23,7 @@ I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,tensorflow,java,raspberrypi)](https://skillicons.dev)
 
-Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
+Tensorflow is an AI and Machine learning framework
 
 Java - Java is really different compared to the languages I already know.
 
