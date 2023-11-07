@@ -10,7 +10,7 @@ Python and C are my strongest languages. I only know Go and Swift because of the
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,pytorch)](https://skillicons.dev)
 
 I work alot with linux and different distributions for a variety of things such as cybersecurity or server application development. Knowledge of linux comes handy when using deployment software like AWS. Blender is something I have learned for fun.
 
@@ -22,7 +22,7 @@ I know how to setup, secure, and use mongoDB, Nginx, and PostgreSQL
 
 <h2>  Currently learning:</h2>
 
-[![My Skills3](https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,java,raspberrypi)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=gitlab,tensorflow,java,raspberrypi)](https://skillicons.dev)
 
 Pytorch and Tensorflow - Learning these two tools will help me learn machine learning, a field I do not have as much experience as other things in
 
