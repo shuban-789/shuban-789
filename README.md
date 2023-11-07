@@ -1,4 +1,4 @@
-![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=radical&show_icons=true)
+![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=github_dark_dimmed&show_icons=true)
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
