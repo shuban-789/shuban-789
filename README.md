@@ -5,7 +5,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 
-Python and C are my strongest languages. I only know Go and Swift because of their similarity to Python and C. Go is like C in structure and has Python-like support. Swift is as dynamic as Python, if not exactly Python with the use of brackets and different variable declaration.
+- Python
+- C
+- Go
+- Swift
 
 <h3 align="left">Tools:</h3>
 
