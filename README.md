@@ -1,4 +1,4 @@
-![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=github_dark_dimmed&show_icons=true)
+![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
@@ -44,6 +44,10 @@ Raspberry Pi - I have not worked with one before and I feel lke it would be a go
 
 ## Currently being tested and worked on:
 
+🐍Orion Python RSH server (Currently on pause after version 2.3)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 🕵️‍♂️Cdecode C description tool (Personal project)
 
-🐍Orion Python RSH server (Currently on pause after version 2.3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Cdecode&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
