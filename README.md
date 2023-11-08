@@ -1,4 +1,4 @@
-![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=shuban-789&theme=transparent)](https://git.io/streak-stats)
+![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)(https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=shuban-789&theme=transparent)](https://git.io/streak-stats)
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
