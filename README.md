@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 
-**Python | C | Go | Swift**
+**Python |   C   |  Go   | Swift**
 
 <h3 align="left">Tools:</h3>
 
