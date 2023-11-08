@@ -41,7 +41,7 @@ Raspberry Pi - I have not worked with one before and I feel lke it would be a go
 - Robotics
 - Server Application Development (protocol implementation)
 - System Administration (Linux)
-- I mainly work with Ubuntu, and RHEL/Fedora based linxu systems. Trying to explore Arch
+- I mainly work with Ubuntu, and Red Hat/Fedora based linux systems. Trying to explore Arch
 
 ## Currently being tested and worked on:
 
