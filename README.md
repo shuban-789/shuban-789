@@ -29,7 +29,7 @@
 - Robotics
 - Server Application Development (protocol implementation)
 - System Administration (Linux)
-- I mainly work with Ubuntu, Red Hat, and other Red Hat based distributions like Fedora. Trying to explore Arch
+- I mainly work with Ubuntu and Fedora. Currently trying to explore Arch
 
 ## Currently being tested and worked on:
 
