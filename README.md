@@ -5,29 +5,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 
-**Python |   C   |  Go   | Swift**
-
 <h3 align="left">Tools:</h3>
 
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker,pytorch)](https://skillicons.dev)
-
-- VScode, Linux, Bash, Amazon Web Services, Blender, Docker, PyTorch
 
 <h3 align="left">Backend Software:</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
-- MongoDB, PostgreSQL, Nginx
-
 <h2>  Currently learning:</h2>
 
 [![My Skills3](https://skillicons.dev/icons?i=gitlab,tensorflow,java,raspberrypi)](https://skillicons.dev)
-
-Tensorflow is an AI and Machine learning framework
-
-Java - Java is really different compared to the languages I already know.
-
-Raspberry Pi - I have not worked with one before and I feel lke it would be a good experience to use it in a project
 
 # Interests and Experience 📝
 
