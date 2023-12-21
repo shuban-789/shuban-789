@@ -15,7 +15,7 @@
 
 <h2>  Currently learning:</h2>
 
-[![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java,raspberrypi)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java)](https://skillicons.dev)
 
 # Interests and Experience 📝
 
