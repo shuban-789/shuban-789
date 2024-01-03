@@ -3,7 +3,7 @@
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift,assembly)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
