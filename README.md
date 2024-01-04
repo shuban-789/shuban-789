@@ -14,7 +14,7 @@
 
 [![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
 
-<h2>  Currently learning:</h2>
+<h3 align="left">Currently Learning:</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java)](https://skillicons.dev)
 
