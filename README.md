@@ -1,5 +1,5 @@
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
-<img height=300 width=360 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuban-789&hide=jupyter%20notebook,css,scss,makefile,dockerfile,html&langs_count=8&layout=compact&theme=transparent" alt="Rick Staa's Language stats" />
+<img height=290 width=360 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuban-789&hide=jupyter%20notebook,css,scss,makefile,dockerfile,html&langs_count=8&layout=compact&theme=transparent" alt="Rick Staa's Language stats" />
 
 <h2>  My Skillbase:</h2>
 <h3 align="left">Programming Languages:</h3>
