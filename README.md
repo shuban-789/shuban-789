@@ -38,6 +38,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-🕵️‍♂️Cdecode C description tool (Personal project)
+🕵️‍♂️Cdecode C description tool (Expanding cipher library)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Cdecode&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
