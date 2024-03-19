@@ -25,7 +25,7 @@
 - Competitive Programming
 - Cryptography
 - Reverse Engineering
-- Binary Exploition/Pwn
+- Binary Exploition/Pwn (I main this category in CTF competitions)
 - Backend Development
 - Robotics
 - Server Application Development (protocol implementation)
