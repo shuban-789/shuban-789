@@ -36,8 +36,8 @@
 
 🐍Orion Python RSH server (Currently on pause after version 2.3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 🕵️‍♂️Cdecode C description tool (Expanding cipher library)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Cdecode&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Cdecode&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
