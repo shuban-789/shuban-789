@@ -12,7 +12,7 @@
 
 <h3 align="left">Web Devlopment Languages and Tools</h3>
 
-[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,nodejs&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Currently Learning:</h3>
 
