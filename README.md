@@ -10,9 +10,9 @@
 
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
 
-<h3 align="left">Backend Software:</h3>
+<h3 align="left">Web Devlopment Languages and Tools</h3>
 
-[![My Skills3](https://skillicons.dev/icons?i=mongodb,postgres,nginx)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,node)](https://skillicons.dev)
 
 <h3 align="left">Currently Learning:</h3>
 
