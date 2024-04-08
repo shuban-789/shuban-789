@@ -22,7 +22,6 @@
 
 - AI and Machine Learning
 - Cybersecurity
-- Competitive Programming
 - Cryptography
 - Reverse Engineering
 - Binary Exploition/Pwn (I main this category in CTF competitions)
