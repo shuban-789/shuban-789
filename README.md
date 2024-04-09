@@ -6,11 +6,11 @@ Statistics exclude languages used for markdown or provided by templates since mo
 -->
 
 <h2>  My Skillbase:</h2>
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools</h3>
 
 [![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
 
@@ -18,7 +18,7 @@ Statistics exclude languages used for markdown or provided by templates since mo
 
 [![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,typescript,nodejs&theme=dark)](https://skillicons.dev)
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">Currently Learning</h3>
 
 [![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java)](https://skillicons.dev)
 
