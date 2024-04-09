@@ -16,7 +16,7 @@ Statistics exclude languages used for markdown or provided by templates since mo
 
 <h3 align="left">Web Devlopment Languages and Tools</h3>
 
-[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,typescript,nodejs&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Currently Learning:</h3>
 
