@@ -19,5 +19,5 @@ Statistics exclude languages used for markdown or provided by templates since mo
 
 <h2> Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift,vscode,linux,bash,aws,blender,docker,nginx,astro,js,typescript,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift,vscode,linux,bash,aws,blender,docker,nginx,js,nodejs)](https://skillicons.dev)
 
