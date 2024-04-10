@@ -5,7 +5,7 @@
 Statistics exclude languages used for markdown or provided by templates since most of those were not coded by me, but rather edited. Such as in blog related projects
 -->
 
-<h2>  My Skillbase:</h2>
+<h2> Skills </h2>
 <h3 align="left">Programming Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
