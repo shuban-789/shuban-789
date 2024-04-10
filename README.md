@@ -5,32 +5,27 @@
 Statistics exclude languages used for markdown or provided by templates since most of those were not coded by me, but rather edited. Such as in blog related projects
 -->
 
-<h2> Skills </h2>
-<h3 align="left">Programming Languages</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
-
-<h3 align="left">Tools</h3>
-
-[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
-
-<h3 align="left">Web Devlopment Languages and Tools</h3>
-
-[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,typescript,nodejs&theme=dark)](https://skillicons.dev)
-
-<h3 align="left">Currently Learning</h3>
-
-[![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java)](https://skillicons.dev)
-
 # Interests and Experience 📝
 
 - AI and Machine Learning
 - Cybersecurity
 - Cryptography
 - Reverse Engineering
-- Binary Exploition/Pwn (I main this category in CTF competitions)
+- Binary Exploition/Pwn 
 - Backend Development
 - Robotics
 - Server Application Development (protocol implementation)
-- System Administration (Linux)
-- I mainly work with Ubuntu and Fedora. Currently trying to explore Arch
+- Linux System Administration 
+
+<h2> Skills </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,go,swift)](https://skillicons.dev)
+
+
+[![My Skills2](https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker)](https://skillicons.dev)
+
+
+[![My Skills3](https://skillicons.dev/icons?i=nginx,astro,js,typescript,nodejs&theme=dark)](https://skillicons.dev)
+
+
+[![My Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,java)](https://skillicons.dev)
