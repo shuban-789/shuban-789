@@ -23,3 +23,4 @@ Statistics exclude languages used for markdown or provided by templates since mo
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift,vscode,linux,bash,aws,docker,nginx,js,nodejs,blender,kalilinux)](https://skillicons.dev)
 
+![image](https://github.com/shuban-789/shuban-789/assets/67974101/5b0a4c4d-563d-4dc1-9786-0e6e0188ccff)
