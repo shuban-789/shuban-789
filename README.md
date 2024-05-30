@@ -7,3 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,go,swift,vscode,linux,bash)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=aws,docker,nginx,js,nodejs,blender,mint)](https://skillicons.dev)
+
+Updates on Orion RSH are paused as of now and may be oicked up in the near future. (Most likely Summer of 2024)
