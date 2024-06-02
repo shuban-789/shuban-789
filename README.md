@@ -1,4 +1,5 @@
-# Hey, I'm Shuban 👋
+![image](https://github.com/shuban-789/shuban-789/assets/67974101/87635c05-2df4-4f39-88f4-2c15fcf81551)
+
 
 📢 Updates on `Orion` are paused as of now but may roll out in the near future. (Most likely Summer of 2024)
 
