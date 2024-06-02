@@ -1,5 +1,4 @@
-![image](https://github.com/shuban-789/shuban-789/assets/67974101/1ed5c0cf-feb4-4daa-9992-892726ac0a97)
-
+![image](https://github.com/shuban-789/shuban-789/assets/67974101/43f482dd-3728-404f-87e5-abcf0202cd24)
 
 
 📢 Updates on `Orion` are paused as of now but may roll out in the near future. (Most likely Summer of 2024)
