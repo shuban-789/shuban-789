@@ -1,5 +1,4 @@
-![image](https://github.com/shuban-789/shuban-789/assets/67974101/bca8f98c-11a1-45a1-9f93-589aad5fc6ae)
-
+![output-onlinepngtools](https://github.com/shuban-789/shuban-789/assets/67974101/c500325b-3856-4852-ad1e-221a304b9433)
 
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
 <img height=196 width=375.1 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuban-789&hide=jupyter%20notebook,css,scss,makefile,dockerfile,html,astro,typescript,javascript,mdx&langs_count=8&layout=compact&theme=transparent" alt="shuban's Language stats" />
