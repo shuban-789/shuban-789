@@ -1,4 +1,3 @@
-🟢🟡🔴
 # Hey, I'm Shuban 👋
 
 ![shubstat](https://github-readme-stats.vercel.app/api?username=shuban-789&theme=transparent&show_icons=true)
