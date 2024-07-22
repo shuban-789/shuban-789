@@ -5,6 +5,6 @@
 
 
 <img align="center" src="https://skillicons.dev/icons?i=py,c,go,swift,js,docker,nginx,redhat,vscode,linux,bash,aws,nodejs,blender,godot" />
-
+<img align="center" src="https://skillicons.dev/icons?i=pytorch, tensorflow" />
 
 
