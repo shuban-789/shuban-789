@@ -5,5 +5,3 @@
 
 
 <img align="center" src="https://skillicons.dev/icons?i=py,c,go,swift,js,docker,nginx,redhat,vscode,linux,bash,aws,blender,pytorch,tensorflow" />
-
-[![Shuban Pal profile views](https://u8views.com/api/v1/github/profiles/67974101/views/day-week-month-total-count.svg)](https://u8views.com/github/shuban-789)
