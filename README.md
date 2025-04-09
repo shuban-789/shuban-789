@@ -7,4 +7,4 @@ Go | Python | C | Java | Rust
 
 Dev on Linux
 
-pwn/forensics/misc CTF
+CTF --> pwn/forensics/misc
