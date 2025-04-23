@@ -13,4 +13,4 @@ pwn/forensics/misc for CTF
 
 CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
 
-currently working on --> sspfg (hopefully a functioning platformer fighting game written in Go)
+currently working on [sspfg](https://github.com/shuban-789/sspfg)
