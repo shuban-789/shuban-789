@@ -10,6 +10,6 @@ currently learning Rust and Assembly
 dev on Linux
 
 pwn/forensics/misc for CTF 
-> CTFs w/ Cosmic Bit Flip && ><))'>
+> CTFs w/ Cosmic Bit Flip and ><))'>
 
 currently working on --> sspfg (hopefully a functioning platformer fighting game written in Go)
