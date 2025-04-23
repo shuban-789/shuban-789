@@ -5,6 +5,8 @@
 
 Go | Python | C | Java
 
+Software for FTC 12499 Gear Up
+
 currently learning Rust and Assembly
 
 dev on Linux
