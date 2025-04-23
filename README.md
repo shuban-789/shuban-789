@@ -7,8 +7,8 @@ Go | Python | C | Java
 
 currently learning Rust and Assembly
 
-Dev on Linux
+dev on Linux
 
 pwn/forensics/misc for CTF 
 
-current proj --> sspfg (hopefully a platformer fighting game written in Go)
+currently working on --> sspfg (hopefully a platformer fighting game written in Go)
