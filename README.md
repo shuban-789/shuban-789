@@ -11,4 +11,4 @@ dev on Linux
 
 pwn/forensics/misc for CTF 
 
-currently working on --> sspfg (hopefully a platformer fighting game written in Go)
+currently working on --> sspfg (hopefully a functioning platformer fighting game written in Go)
