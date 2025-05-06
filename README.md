@@ -11,7 +11,7 @@ currently learning Rust and Assembly
 
 dev on Linux
 
-pwn/forensics/misc for CTF 
+CTFer (pwn/forensics/misc)
 
 CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
 
