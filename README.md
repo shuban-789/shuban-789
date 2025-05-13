@@ -7,7 +7,7 @@ Go | Python | C | Java
 
 Software for FTC 12499 Gear Up
 
-currently learning Rust, Kotlin, and Assembly
+currently learning Rust (for fun), Kotlin (for ftc), and Assembly (for pwn)
 
 dev on Linux
 
