@@ -11,7 +11,7 @@ currently learning Rust (for fun), Kotlin (for ftc), and Assembly (for pwn)
 
 dev on Linux
 
-CTFer (pwn/forensics/misc)
+CTFer (pwn/misc)
 
 CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
 
