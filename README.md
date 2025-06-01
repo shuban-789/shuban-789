@@ -17,5 +17,3 @@
 -> CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
 
 -> currently working on [sspfg](https://github.com/shuban-789/sspfg)
-
--> huge fan of bullet points
