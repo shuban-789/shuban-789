@@ -6,10 +6,10 @@
 **Go | Python | C | Java**
 
 
-- Software for FTC 12499 Gear Up
-- currently learning Rust (for fun), Kotlin (for ftc), and Assembly (for pwn)
-- dev on Linux (Ubuntu, Fedora)
-- CTFer (pwn/misc)
-- CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
-- currently working on [sspfg](https://github.com/shuban-789/sspfg)
-- huge fan of bullet points
+-> Software for FTC 12499 Gear Up
+-> currently learning Rust (for fun), Kotlin (for ftc), and Assembly (for pwn)
+-> dev on Linux (Ubuntu, Fedora)
+-> CTFer (pwn/misc)
+-> CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
+-> currently working on [sspfg](https://github.com/shuban-789/sspfg)
+-> huge fan of bullet points
