@@ -10,7 +10,7 @@
 
 > currently learning Rust (for fun), Kotlin (for ftc), and Assembly (for pwn)
 
-> dev on Linux (Ubuntu, Fedora)
+> dev on Linux (Fedora)
 
 > CTFer (pwn/misc)
 
