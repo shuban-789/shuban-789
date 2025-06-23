@@ -12,8 +12,6 @@
 
 > dev on Linux (Fedora)
 
-> CTFer (pwn/misc)
-
-> CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip) 
+> CTFs w/ [Cosmic Bit Flip](https://github.com/C0smic-B1tflip), misc/pwn categories
 
 > currently working on [sspfg](https://github.com/shuban-789/sspfg)
