@@ -9,4 +9,3 @@ fn readme(n: i32) -> &'static str {
   }
 }
 ```
-> Check out [Advent of Code](https://github.com/shuban-789/Advent-of-Code)
