@@ -1,6 +1,6 @@
 ```rust
-fn readme(n: i32) -> &'static str {
-  match n {
+fn readme(line: i32) -> &'static str {
+  match line {
     1 => { "CS @ Georgia Tech" }
     2 => { 
         "
